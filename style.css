@@ -68,6 +68,9 @@ h1{
 .half-width img{
     width: 80%;
 }
+.half-width img:hover{
+    transform: rotate(-40deg);
+}
 
 .link-button{
     text-decoration: none;
